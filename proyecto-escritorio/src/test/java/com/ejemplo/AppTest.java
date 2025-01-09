@@ -1,4 +1,4 @@
-package com.endes;
+package com.ejemplo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
